@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shanmukhaReddyK
-- 👀 I’m interested in coding, gamedev and video games
-- 🌱 I’m currently learning  c++ , unreal engine and godot
+- 👀  
+- 🌱 
 
 
 <!---
