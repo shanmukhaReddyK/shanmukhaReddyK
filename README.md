@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shanmukhaReddyK
-- 👀  
+- 👀  I wanna be a kind of Programmer myself
 - 🌱 
 
 
