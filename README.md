@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a 2D-Game Engine<br>🌱 I’m currently learning shaders<br>💬 Ask me about Video games , Unreal Engine and C++<br>⚡ Fun fact I think I am funny but I am not
+🔭 I’m currently working on a my custom Game Engine<br>🌱 I’m currently learning Computer Graphics<br>💬 Ask me about Video games, Graphics, C and C++<br>⚡ Fun fact I think I am funny but I am not
 ---
 
 
